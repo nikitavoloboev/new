@@ -4,8 +4,7 @@
 
 <details><summary>🐱</summary>
   <a href="https://nikitavoloboev.xyz/">
-    <!-- <img width="800" heigth="200" src="cat.jpg"></img> -->
-    ![](cat.jpg)
+    <img width="800" heigth="200" src="https://raw.githubusercontent.com/nikitavoloboev/nikitavoloboev/master/cat.jpg"></img>
   </a>
 
 ## Learn Anything
