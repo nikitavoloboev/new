@@ -2,7 +2,7 @@
 
 💛 I [share things](https://wiki.nikitavoloboev.xyz/sharing) freely on [Twitter](https://twitter.com/nikitavoloboev), [Instagram](https://www.instagram.com/nikitavoloboev) & [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw) and appreciate [your support](https://github.com/sponsors/nikitavoloboev). [Ask me anything](https://github.com/nikitavoloboev/ama).
 
-<details><summary>🐱 Projects</summary>
+<details><summary>🐱</summary>
   <a href="https://nikitavoloboev.xyz/">
     <img width="800" heigth="200" src="https://assets.merveilles.town/media_attachments/files/000/852/844/original/e8f82a4ccddd9adb.jpg"></img>
   </a>
