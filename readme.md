@@ -4,9 +4,10 @@
 
 <details><summary>🐱</summary>
   <a href="https://nikitavoloboev.xyz/">
-    <img width="800" heigth="200" src="https://assets.merveilles.town/media_attachments/files/000/852/844/original/e8f82a4ccddd9adb.jpg"></img>
+    <!-- <img width="800" heigth="200" src="cat.jpg"></img> -->
+    ![](cat.jpg)
   </a>
-  
+
 ## Learn Anything
 
 - [Learn Anything (2017)](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths.
