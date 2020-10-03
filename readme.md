@@ -35,8 +35,8 @@
 
 ## Go Libraries
 
-- [Markdown Parser (2017)](https://github.com/nikitavoloboev/markdown-parser) - Go library to parse markdown to grab various things.
 - [Go Experiments (2020)](https://github.com/nikitavoloboev/go-exp) - Small Go packages & CLIs.
+- [Markdown Parser (2017)](https://github.com/nikitavoloboev/markdown-parser) - Go library to parse markdown to grab various things.
 
 ## CLI
 
