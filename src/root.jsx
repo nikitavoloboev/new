@@ -1,8 +1,10 @@
 // @refresh reload
-import { Links, Meta, Routes, Scripts } from "solid-start/root";
-import { ErrorBoundary } from "solid-start/error-boundary";
-import { Suspense } from "solid-js";
-import "./index.css";
+import { Suspense } from "solid-js"
+import { compile } from "solid-marked"
+import { ErrorBoundary } from "solid-start/error-boundary"
+import { Links, Meta, Routes, Scripts } from "solid-start/root"
+import "./index.css"
+
 export default function Root() {
   return (
     <html lang="en">
@@ -16,10 +18,11 @@ export default function Root() {
         <ErrorBoundary>
           <Suspense>
             <Routes />
+            {/* <SolidMarkdown children={markdown} /> */}
           </Suspense>
         </ErrorBoundary>
         <Scripts />
       </body>
     </html>
-  );
+  )
 }
