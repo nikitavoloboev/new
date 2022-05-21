@@ -19,13 +19,5 @@
   },
   "engines": {
     "node": ">=14"
-  },
-  "dependencies": {
-    "@mdx-js/rollup": "^2.1.1",
-    "remark-gfm": "^3.0.1",
-    "solid-jsx": "^0.7.1",
-    "solid-markdown": "^1.2.0",
-    "solid-marked": "^0.2.2",
-    "solid-mdx": "^0.0.6"
   }
 }

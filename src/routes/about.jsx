@@ -1,5 +1,5 @@
-import Counter from "~/components/Counter";
-import { Link } from "solid-app-router";
+import { Link } from "solid-app-router"
+import Counter from "~/components/Counter"
 export default function About() {
   return (
     <main class="text-center mx-auto text-gray-700 p-4">
@@ -26,5 +26,5 @@ export default function About() {
         <span>About Page</span>
       </p>
     </main>
-  );
+  )
 }
