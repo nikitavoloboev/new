@@ -1,4 +1,7 @@
 {
   "editor.defaultFormatter": "dprint.dprint",
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }

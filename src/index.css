@@ -95,13 +95,22 @@ h5,
 h6 {
   font-variation-settings: "wght" 600;
 }
+
 h2 {
   font-variation-settings: "wght" 600;
   letter-spacing: -0.015em;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
+
 h1 {
   font-variation-settings: "wght" 650;
   letter-spacing: -0.02em;
+}
+
+p {
+  line-height: 1.5; /* within paragraph */
+  margin-bottom: 20px; /* between paragraphs */
 }
 
 .prose {

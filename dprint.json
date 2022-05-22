@@ -8,7 +8,7 @@
   },
   "toml": {
   },
-  "includes": ["**/*.{ts,tsx,js,jsx,cjs,mjs,json,md,toml}"],
+  "includes": ["**/*.{ts,tsx,js,jsx,cjs,mjs,json,md,toml, css}"],
   "excludes": [
     "**/node_modules",
     "**/*-lock.json"

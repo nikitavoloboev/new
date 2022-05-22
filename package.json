@@ -19,5 +19,10 @@
   },
   "engines": {
     "node": ">=14"
+  },
+  "dependencies": {
+    "@mdx-js/rollup": "^2.1.1",
+    "marked": "^4.0.16",
+    "solid-mdx": "^0.0.6"
   }
 }
