@@ -1,5 +1,5 @@
 interface Props {
-  activePage: string;
+  activePage: string
 }
 
 export default function Nav({ activePage }: Props) {
