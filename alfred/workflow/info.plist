@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>nikiv.starter</string>
+	<key>category</key>
+	<string>Mine</string>
+	<key>connections</key>
+	<dict/>
+	<key>createdby</key>
+	<string>Nikita</string>
+	<key>description</key>
+	<string>Starter workflow + Testing</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>Starter</string>
+	<key>objects</key>
+	<array/>
+	<key>readme</key>
+	<string>Details on how to use this workflow are found in the GitHub repo attached to the workflow. 
+
+Double click this workflow in sidebar -&gt; Open website.
+
+Post any issues and feature requests you have there. 💜</string>
+	<key>uidata</key>
+	<dict/>
+	<key>userconfigurationconfig</key>
+	<array/>
+	<key>webaddress</key>
+	<string>https://github.com/nikitavoloboev</string>
+</dict>
+</plist>
