@@ -4,7 +4,7 @@
 
 All templates are used with [template CLI](https://github.com/fabiospampinato/template) and have instructions inside.
 
-- [App](https://github.com/nikitavoloboev/new-app)
+- [New desktop/web app](https://github.com/nikitavoloboev/new-app)
 
 ### ♥️
 
