@@ -4,7 +4,7 @@
 
 All templates are used with [template CLI](https://github.com/fabiospampinato/template) and have instructions inside.
 
-- [New desktop/web app](https://github.com/nikitavoloboev/new-app)
+- [App](https://github.com/nikitavoloboev/new-app) - Solid/Grafbase/EdgeDB/Tauri
 
 ### ♥️
 
