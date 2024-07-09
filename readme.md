@@ -2,7 +2,9 @@
 
 > New snippets, files, projects
 
-Templates built with [template CLI](https://github.com/fabiospampinato/template).
+Templates built with [template](https://github.com/fabiospampinato/template).
+
+Snippets are [VSCode snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets).
 
 ## Past
 
