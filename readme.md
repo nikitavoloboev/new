@@ -6,6 +6,11 @@ Templates built with [template](https://github.com/fabiospampinato/template).
 
 Snippets are [VSCode snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets), used in [Cursor](https://www.cursor.com).
 
+## Starters
+
+- [web](https://github.com/nikitavoloboev/new-web) - new web app with [TanStack Start](https://tanstack.com/start/latest)
+- [telegram app](https://github.com/nikitavoloboev/new-telegram-app) - new mini app with [TanStack Start](https://tanstack.com/start/latest)
+
 ## Past
 
 There is [app](https://github.com/nikitavoloboev/past/tree/main/24/april/new-solid-grafbase-edgedb-tauri) & [mobile](https://github.com/nikitavoloboev/past/tree/main/24/july/new-mobile) starters.
