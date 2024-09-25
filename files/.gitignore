@@ -1,0 +1,15 @@
+# core
+.DS_Store
+.env
+.env*.local
+# ts
+node_modules
+package-lock.json
+pnpm-lock.yaml
+.vercel
+# next
+.next-types
+.next
+# other
+private
+past-*
