@@ -21,8 +21,7 @@ past-*
 scripts/run.ts
 *.bike
 
-web
 ts
-web-clerk-jazz
-web-clerk-ronin
+web
+web-auth
 
