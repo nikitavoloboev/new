@@ -6,8 +6,8 @@ All starters as repos have `new-` prefix and can be seen [here](https://github.c
 
 Repos in use with `new-` prefix:
 
-- [files](https://github.com/nikitavoloboev/new-files) - New files
 - [snippets](https://github.com/nikitavoloboev/new-snippets) - New snippets
+- [files](https://github.com/nikitavoloboev/new-files) - New files
 - [ts](https://github.com/nikitavoloboev/new-ts) - New TS package
 - [web](https://github.com/nikitavoloboev/new-web) - New website (TanStack Start)
 - [web-auth](https://github.com/nikitavoloboev/new-web-auth) - New website with auth (TanStack Start, Jazz, Clerk)
