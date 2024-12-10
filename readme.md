@@ -2,7 +2,7 @@
 
 > New snippets, files, projects
 
-All starters as repos have `new-` prefix and can be seen [here](https://github.com/nikitavoloboev?tab=repositories&q=new-). Repos that don't end with `-test` are ones I actually use as starters.
+All starters as repos have `new-` prefix and can be seen [here](https://github.com/nikitavoloboev?tab=repositories&q=new-). Repos that don't [end with -test](https://github.com/nikitavoloboev?tab=repositories&q=new-+test) are ones I actually use as starters.
 
 Repos in use with `new-` prefix:
 
