@@ -4,7 +4,7 @@
 
 All starters as repos have `new-` prefix and can be seen [here](https://github.com/nikitavoloboev?tab=repositories&q=new-).
 
-Repos in use with `new-` prefix:
+Starters in use are:
 
 - [snippets](https://github.com/nikitavoloboev/new-snippets) - New snippets
 - [files](https://github.com/nikitavoloboev/new-files) - New files
