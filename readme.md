@@ -2,7 +2,7 @@
 
 > New snippets, files, projects
 
-All starters as repos have `new-` prefix and can be seen [here](https://github.com/nikitavoloboev?tab=repositories&q=new-&type=source).
+All starter repos have `new-` prefix and can be seen [here](https://github.com/nikitavoloboev?tab=repositories&q=new-&type=source).
 
 Starters in use are:
 
