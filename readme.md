@@ -10,7 +10,10 @@ Starters in use are:
 - [files](https://github.com/nikitavoloboev/new-files) - New files
 - [ts](https://github.com/nikitavoloboev/new-ts) - New TS package
 - [web](https://github.com/nikitavoloboev/new-web) - New website (TanStack Start)
-- [web-auth](https://github.com/nikitavoloboev/new-web-auth) - New website with auth (TanStack Start, Jazz, Clerk)
+
+WIP:
+
+- [web-auth](https://github.com/nikitavoloboev/new-web-auth) - New website with auth (TanStack Start, Ronin)
 - [telegram-mini-app](https://github.com/nikitavoloboev/new-telegram-mini-app) - New Telegram mini app (TanStack Start)
 
 I also have some starters I am testing out, their repo names [end with -test](https://github.com/nikitavoloboev?tab=repositories&q=new-+-test&type=source).
