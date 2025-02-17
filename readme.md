@@ -8,8 +8,9 @@ Starters in use are:
 
 - [snippets](https://github.com/nikitavoloboev/new-snippets) - New snippets
 - [files](https://github.com/nikitavoloboev/new-files) - New files
-- [ts](https://github.com/nikitavoloboev/new-ts) - New TS package
+- [ts](https://github.com/nikitavoloboev/new-ts) - New TS project/package
 - [web](https://github.com/nikitavoloboev/new-web) - New website (TanStack Start)
+- [py](https://github.com/nikitavoloboev/new-py) - New Python project/package
 
 WIP:
 
