@@ -14,8 +14,8 @@ Starters in use are:
 
 WIP:
 
-- [web-auth](https://github.com/nikitavoloboev/new-web-auth) - New website with auth (TanStack Start, Ronin, Better Auth)
-- [telegram-mini-app](https://github.com/nikitavoloboev/new-telegram-mini-app) - New Telegram mini app (TanStack Start)
+- [web-auth](https://github.com/nikitavoloboev/new-web-auth) - New website with auth (TanStack Start, Jazz)
+- [telegram-mini-app](https://github.com/nikitavoloboev/new-telegram-mini-app) - New Telegram mini app (TanStack Start, Jazz)
 
 I also have some starters I am testing out, their repo names [end with -test](https://github.com/nikitavoloboev?tab=repositories&q=new-+-test&type=source).
 
