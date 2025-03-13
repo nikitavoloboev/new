@@ -17,8 +17,5 @@ All starter repos have `new-` prefix and can be seen [here](https://github.com/n
 
 - [telegram-mini-app](https://github.com/nikitavoloboev/new-telegram-mini-app) - New Telegram mini app (TanStack Start, Jazz)
 - [next-postgres-auth](https://github.com/nikitavoloboev/new-next-postgres-auth) - New website (Next.js, Postgres, Better Auth)
-  <!-- - [next-ronin-auth](https://github.com/nikitavoloboev/new-next-ronin-auth) - New website (Next.js, Ronin, Better Auth) -->
-  <!-- - [ts-cli](https://github.com/nikitavoloboev/new-ts-cli) - New ts cli
-  <!-- - [ts-lib](https://github.com/nikitavoloboev/new-ts-lib) - New ts lib
 
 [![Discord](https://go.nikiv.dev/badge-discord)](https://go.nikiv.dev/discord) [![X](https://go.nikiv.dev/badge-x)](https://x.com/nikitavoloboev) [![nikiv.dev](https://go.nikiv.dev/badge-nikiv)](https://nikiv.dev)
